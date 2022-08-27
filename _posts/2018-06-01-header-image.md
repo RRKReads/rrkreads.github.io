@@ -1,6 +1,6 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: Post 2
+tags: RRKReads
 article_header:
   type: cover
   image:
