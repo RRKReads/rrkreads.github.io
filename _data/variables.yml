@@ -30,8 +30,8 @@ default:
     show_edit_on_github: false
     show_date: true
     show_tags: true
-    show_author_profile: false
-    show_subscribe: false
+    show_author_profile: true
+    show_subscribe: true
     full_width: false
     sharing: false
     comment: true

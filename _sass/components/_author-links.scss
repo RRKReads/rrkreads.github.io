@@ -11,25 +11,13 @@
       .twitter-button {
         @include clickable($text-color-1, $twitter-color);
       }
-      .weibo-button {
-        @include clickable($text-color-1, $weibo-color);
-      }
-      .googlepluse-button {
-        @include clickable($text-color-1, $google-plus-color);
-      }
-      .telegram-button {
+     .telegram-button {
         @include clickable($text-color-1, $telegram-color);
       }
       .medium-button {
         @include clickable($text-color-1, $medium-color);
       }
-      .zhihu-button {
-        @include clickable($text-color-1, $zhihu-color);
-      }
-      .douban-button {
-        @include clickable($text-color-1, $douban-color);
-      }
-      .linkedin-button {
+     .linkedin-button {
         @include clickable($text-color-1, $linkedin-color);
       }
       .github-button {

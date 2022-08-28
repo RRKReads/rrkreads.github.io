@@ -1,21 +1,18 @@
 {
   "name": "jekyll-text-theme",
   "version": "2.2.6",
-  "author": "Tian Qi",
+  "author": "RRK",
   "license": "MIT",
   "keywords": [
     "jekyll",
     "jekyll-theme",
     "jekyll-template"
   ],
-  "homepage": "https://github.com/kitian616/jekyll-TeXt-theme",
-  "description": "A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
+  "homepage": "https://github.com/RRKReads/rrkreads.github.io", 
+  "description": "RRKReads - Read, Review, Reccomend, and Repeat.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kitian616/jekyll-TeXt-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kitian616/jekyll-TeXt-theme/issues"
+    "url": "git+https://github.com/RRKReads/rrkreads.github.io"
   },
   "scripts": {
     "build": "cross-env JEKYLL_ENV=production bundle exec jekyll build",
